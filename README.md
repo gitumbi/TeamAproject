@@ -1,2 +1,2 @@
 # The Impact of Climate Change on Crop Production in the USA
-Team A Final Project
+The purpose of this project is to determine the impact of climate change on crop production. It will include analysis on how weather related conditions such as precipitation, temperature changes, drought conditions, and significant weather events affect major crops grown in the U.S. This information would prove useful to individuals who are responsible for making business decisions in industries that rely upon American agriculture providing consistent yields. 
