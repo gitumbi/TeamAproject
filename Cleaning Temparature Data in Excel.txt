@@ -1,0 +1,5 @@
+1. Sorted Data by Element to separate Temparature change with Standard Deviation
+2. Deleted the sorted Standard Deviation data and kept the Temperature Change data
+3. Sorted data by Year.
+4. Calculated the mean temperature of each year. 2000 to 2020
+5. Deleted  Monthly Temperature Column and rows and replaced with Annual temperature change column
