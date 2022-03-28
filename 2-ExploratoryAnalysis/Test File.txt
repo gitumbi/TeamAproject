@@ -1,0 +1,5 @@
+CropsProduction.drop(['Domain'],axis=1, inplace=True)
+CropsProduction.drop(['Domain'], axis=1, inplace=True)
+CropsProduction.drop(['Domain'], axis=1, inplace=True)
+CropsProduction.drop(['Domain'], axis=1, inplace=True)
+CropsProduction.head()
