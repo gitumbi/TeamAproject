@@ -63,8 +63,8 @@ Projected increases in temperatures, changes in precipitation patterns, changes 
 |[Jessica](https://github.com/) |@Jessica   |
 |[Laverne](https://github.com/)| @Laverne       |
 |[David](https://github.com/gitumbi) |@David    |
-|[Alesia](https://github.com/[github handle])| @Alesia        |
-|[Skyrie](https://github.com/[github handle]) |@Skyrie    |
+|[Alesia](https://github.com/)| @Alesia        |
+|[Skyrie](https://github.com/) |@Skyrie    |
 
 ## Contact
 * Our slack channel is `#teamafinalproject.slack.com`
