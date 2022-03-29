@@ -42,9 +42,12 @@ Projected increases in temperatures, changes in precipitation patterns, changes 
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Raw Data is being kept [here](https://github.com/gitumbi/TeamAproject/tree/main/Data/RawData).  
-3. Data processing/transformation scripts are being kept [here]()
-4. etc...
-5. Follow setup [instructions](Link to file)
+3. Data Wrangling scripts are being kept [here](https://github.com/gitumbi/TeamAproject/tree/main/1-Wrangling)
+4. Data Exploratory Analysis scripts are being kept [here](https://github.com/gitumbi/TeamAproject/tree/main/2-ExploratoryAnalysis)
+5. Data Analysis scripts are being kept [here](https://github.com/gitumbi/TeamAproject/tree/main/3-AnalyzingData)
+6. Data Visualization and Reporting scripts are being kept [here](https://github.com/gitumbi/TeamAproject/tree/main/4-VisualizationandReporting)
+7.
+8. Follow setup [instructions](Link to file)
 
 ## Featured Notebooks/Analysis/Deliverables
 * [Notebook/Markdown/Slide Deck Title](link)
