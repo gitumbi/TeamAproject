@@ -46,12 +46,11 @@ Projected increases in temperatures, changes in precipitation patterns, changes 
 4. Data Exploratory Analysis scripts are being kept [here](https://github.com/gitumbi/TeamAproject/tree/main/2-ExploratoryAnalysis)
 5. Data Analysis scripts are being kept [here](https://github.com/gitumbi/TeamAproject/tree/main/3-AnalyzingData)
 6. Data Visualization and Reporting scripts are being kept [here](https://github.com/gitumbi/TeamAproject/tree/main/4-VisualizationandReporting)
-7.
-8. Follow setup [instructions](Link to file)
+
 
 ## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
+* [Notebook/Data Wrangling](link)
+* [Notebook/Data Exploratory Analysis](link)
 * [Blog Post](link)
 
 
@@ -60,14 +59,13 @@ Projected increases in temperatures, changes in precipitation patterns, changes 
 
 |Name     |  Slack Handle   | 
 |---------|-----------------|
-|[Tamra](https://github.com/[github handle])| @johnDoe        |
-|[Jessica](https://github.com/[github handle]) |@janeDoe    |
-|[Laverne](https://github.com/[github handle])| @johnDoe        |
-|[David](https://github.com/[github handle]) |@janeDoe    |
-|[Alesia](https://github.com/[github handle])| @johnDoe        |
-|[Skyrie](https://github.com/[github handle]) |@janeDoe    |
+|[Tamra](https://github.com/)| @Tamra        |
+|[Jessica](https://github.com/) |@Jessica   |
+|[Laverne](https://github.com/)| @Laverne       |
+|[David](https://github.com/gitumbi) |@David    |
+|[Alesia](https://github.com/[github handle])| @Alesia        |
+|[Skyrie](https://github.com/[github handle]) |@Skyrie    |
 
 ## Contact
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
-* Our slack channel is `#datasci-projectname`
-* Feel free to contact team leads with any questions or if you are interested in contributing!
+* Our slack channel is `#teamafinalproject.slack.com`
+* Feel free to contact us with any questions or if you are interested in contributing!
