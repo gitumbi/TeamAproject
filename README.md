@@ -41,20 +41,16 @@ Projected increases in temperatures, changes in precipitation patterns, changes 
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
+2. Raw Data is being kept [here](https://github.com/gitumbi/TeamAproject/tree/main/Data/RawData).  
+3. Data Wrangling scripts are being kept [here](https://github.com/gitumbi/TeamAproject/tree/main/1-Wrangling)
+4. Data Exploratory Analysis scripts are being kept [here](https://github.com/gitumbi/TeamAproject/tree/main/2-ExploratoryAnalysis)
+5. Data Analysis scripts are being kept [here](https://github.com/gitumbi/TeamAproject/tree/main/3-AnalyzingData)
+6. Data Visualization and Reporting scripts are being kept [here](https://github.com/gitumbi/TeamAproject/tree/main/4-VisualizationandReporting)
 
-    *If using offline data mention that and how they may obtain the data from the froup)*
-    
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
-
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
-
-5. Follow setup [instructions](Link to file)
 
 ## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
+* [Notebook/Data Wrangling](link)
+* [Notebook/Data Exploratory Analysis](link)
 * [Blog Post](link)
 
 
@@ -63,14 +59,13 @@ Projected increases in temperatures, changes in precipitation patterns, changes 
 
 |Name     |  Slack Handle   | 
 |---------|-----------------|
-|[Tamra](https://github.com/[github handle])| @johnDoe        |
-|[Jessica](https://github.com/[github handle]) |@janeDoe    |
-|[Laverne](https://github.com/[github handle])| @johnDoe        |
-|[David](https://github.com/[github handle]) |@janeDoe    |
-|[Alesia](https://github.com/[github handle])| @johnDoe        |
-|[Skyrie](https://github.com/[github handle]) |@janeDoe    |
+|[Tamra](https://github.com/)| @Tamra        |
+|[Jessica](https://github.com/) |@Jessica   |
+|[Laverne](https://github.com/)| @Laverne       |
+|[David](https://github.com/gitumbi) |@David    |
+|[Alesia](https://github.com/)| @Alesia        |
+|[Skyrie](https://github.com/) |@Skyrie    |
 
 ## Contact
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
-* Our slack channel is `#datasci-projectname`
-* Feel free to contact team leads with any questions or if you are interested in contributing!
+* Our slack channel is `#teamafinalproject.slack.com`
+* Feel free to contact us with any questions or if you are interested in contributing!
