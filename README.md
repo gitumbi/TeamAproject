@@ -3,6 +3,9 @@ This project is a part of the Data Science Working Group Team A at Southern Care
 
 #### -- Project Status: [Active]
 
+https://user-images.githubusercontent.com/96039610/161367660-d9a6ddfb-4565-41ec-960a-7fa4fdd218e9.png
+
+
 ## Project Objective
 The purpose of this project is to determine the impact of climate change on crop production. It will include analysis on how weather related conditions such as precipitation, temperature changes, drought conditions, and significant weather events affect major crops grown in the U.S. This information would prove useful to individuals who are responsible for making business decisions in industries that rely upon American agriculture providing consistent yields
 
