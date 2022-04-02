@@ -3,7 +3,8 @@ This project is a part of the Data Science Working Group Team A at Southern Care
 
 #### -- Project Status: [Active]
 
-https://user-images.githubusercontent.com/96039610/161367660-d9a6ddfb-4565-41ec-960a-7fa4fdd218e9.png
+![Alt text](https://user-images.githubusercontent.com/96039610/161367660-d9a6ddfb-4565-41ec-960a-7fa4fdd218e9.png)
+
 
 
 ## Project Objective
