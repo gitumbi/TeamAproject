@@ -3,6 +3,10 @@ This project is a part of the Data Science Working Group Team A at Southern Care
 
 #### -- Project Status: [Active]
 
+![Alt text](https://user-images.githubusercontent.com/96039610/161367660-d9a6ddfb-4565-41ec-960a-7fa4fdd218e9.png)
+
+
+
 ## Project Objective
 The purpose of this project is to determine the impact of climate change on crop production. It will include analysis on how weather related conditions such as precipitation, temperature changes, drought conditions, and significant weather events affect major crops grown in the U.S. This information would prove useful to individuals who are responsible for making business decisions in industries that rely upon American agriculture providing consistent yields
 
@@ -22,7 +26,7 @@ The purpose of this project is to determine the impact of climate change on crop
 * MySql
 * Pandas, jupyter
 * Tableu
-* 
+* NetCDF Panoply
 
 ## Project Description
 Over half of the U.S. land area, 1.3 billion acres according to the USDA Economic Research Service as of 2012, is used for agricultural production. With the concentration of crop production located within California and the Midwest, the constant threat of wildfires, freezes, flooding and tornadic events proves to be a reoccurring risk for agriculture. The weather and climate disasters of 2020 left over $3.6 billion in uncovered crop and rangeland losses. 
