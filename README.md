@@ -1,10 +1,11 @@
 # The Impact of Climate Change on Crop Production in the USA Project
 This project is a part of the Data Science Working Group Team A at Southern Careers Institute.  
 
-#### -- Project Status: [Active]
+#### -- Project Status: [Complete]
+
+[![The Impact of Climate Change on Crop Production in the USA Project](https://user-images.githubusercontent.com/96039610/161367660-d9a6ddfb-4565-41ec-960a-7fa4fdd218e9.png)](https://vimeo.com/698849996)
 
 ![Alt text](https://user-images.githubusercontent.com/96039610/161367660-d9a6ddfb-4565-41ec-960a-7fa4fdd218e9.png)
-
 
 
 ## Project Objective
