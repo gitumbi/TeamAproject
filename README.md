@@ -3,7 +3,7 @@ This project is a part of the Data Science Working Group Team A at Southern Care
 
 #### -- Project Status: [Complete]
 
-[![The Impact of Climate Change on Crop Production in the USA Project](https://user-images.githubusercontent.com/96039610/161367660-d9a6ddfb-4565-41ec-960a-7fa4fdd218e9.png)](https://vimeo.com/698849996)
+![The Impact of Climate Change on Crop Production in the USA Project](https://user-images.githubusercontent.com/29492410/163242581-92590041-f5c4-4094-97af-53d78871211a.JPG)(https://vimeo.com/698849996)
 
 ![Alt text](https://user-images.githubusercontent.com/96039610/161367660-d9a6ddfb-4565-41ec-960a-7fa4fdd218e9.png)
 
